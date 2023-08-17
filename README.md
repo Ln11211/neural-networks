@@ -5,7 +5,7 @@ A collection of Neural networks and NN models trained by me while I learn deep l
 
 ![image](https://github.com/Ln11211/neural-networks/assets/91385411/7bea0609-ff07-44f0-87d3-070b28f8b374)
 
-This interactive notebook is a quick wakthrough of the ML workflow of loading up an image dataset and performing a multiclass classification. The dataset is the famous CIFAR_10 dataset having 10 classes. The model that I built is a simple custom model with couple of Convolution blocks and MaxPooling box with a FC dense layer as the classifier head. THe dataset comes preprocessed from the TF Hub datasets but this is a good introduction notebook for beginners.
+This interactive notebook is a quick wakthrough of the ML workflow of loading up an image dataset and performing a multiclass classification. The dataset is the famous CIFAR_10 dataset having 10 classes. The model that I built is a simple custom model with couple of Convolution blocks and MaxPooling layers with a FC dense layer as the classifier head. THe dataset comes preprocessed from the TF Hub datasets but this is a good introduction notebook for beginners.
 
 
 
@@ -24,6 +24,6 @@ Link to the project:-[here](https://nbviewer.org/github/Ln11211/neural-networks/
 ![image](https://github.com/Ln11211/neural-networks/assets/91385411/cdc52107-b509-46b2-9f10-b27c795169e7)
 
  A Deep computer vision model with the ability to identify the age of an Indian and classify them into one among the three age groups- Young, Old, Middle.
-The dataset I used for this Project is The Indian Movie Face database (IMFDB) by Shankar shetty et-al.[https://ieeexplore.ieee.org/document/6776225]
+The dataset I used for this Project is The Indian Movie Face database (IMFDB) by Shankar setty et-al.[https://ieeexplore.ieee.org/document/6776225]
 
 Link to the project folder:-[here](https://github.com/Ln11211/neural-networks/tree/main/Age%20detection)
